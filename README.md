@@ -37,11 +37,3 @@ A real-time chat application built using **React**, **Node.js**, and **Socket.IO
 | Socket.IO | Socket.IO |
 
 ---
-
-## 🛠️ How to Run the Project Locally
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/react-socket-chat-app.git
-cd react-socket-chat-app
